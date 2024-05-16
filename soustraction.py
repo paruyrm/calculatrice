@@ -1,2 +1,5 @@
+
 def soustraction(a, b):
-    return a - b
+    result = a - b
+    print("Test Output: ", result)
+    return result
